@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HungryDogApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4a1edce97b861f27b25cae3402a7e79f7197d708")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+936da696824ce40853fe06c040444154b86643c1")]
 [assembly: System.Reflection.AssemblyProductAttribute("HungryDogApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HungryDogApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
